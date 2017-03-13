@@ -73,7 +73,7 @@ canvas {
     width: 15px;
     height: 15px;
     border: 2px solid $gray;
-    border-radius: 3px;
+    border-radius: 50%;
     &:before {
       content: '';
       position: absolute;
@@ -82,7 +82,7 @@ canvas {
       width: 15px;
       height: 15px;
       border: 2px solid $gray;
-      border-radius: 3px;
+      border-radius: 50%;
     }
   }
   &:hover {
