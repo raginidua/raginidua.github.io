@@ -21,9 +21,10 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: r_dua88
 github_username: raginidua
 
+
 # Build settings
 markdown: kramdown
-theme: jekyll-athena
+theme: jekyll-trophy
 gems:
   - jekyll-feed
 exclude:
