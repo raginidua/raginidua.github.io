@@ -1,6 +1,6 @@
 # Site
 title: Ragini Dua
-description: Web Developer London
+description: Web Developer
 url: ''
   # https://raginidua.github.io
 logo: halve.png                                       # Site logo
@@ -32,7 +32,7 @@ sass:
 # Social Links
 email:             hello@raginidua.com
 #google.plus:        username
-twitter:            r_dua88
+# twitter:            r_dua88
 #facebook:           username
 github:             raginidua
 # stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
