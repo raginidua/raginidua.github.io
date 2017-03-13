@@ -24,7 +24,7 @@ github_username: raginidua
 
 # Build settings
 markdown: kramdown
-theme: jekyll-trophy
+theme: jekyll-athena
 gems:
   - jekyll-feed
 exclude:
