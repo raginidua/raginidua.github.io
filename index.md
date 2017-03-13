@@ -1,7 +1,7 @@
 ---
 layout: home
 ---
-# Web Developer
+# About Me
 
 Last year, I made the decision to leave my career as an investment banker to focus on learning opportunities which excite and inspire me.  Since my undergraduate degree, I have always loved Philosophy and later this year, I will be undertaking an MSc in Philosophy and Public Policy to explore this fascination further. My motivation to learn new things also led me to the Web Development Immersive course at GA.  There I found another great love - Coding.
 
