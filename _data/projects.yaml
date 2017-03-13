@@ -1,29 +1,19 @@
-- title: Halve Jekyll Theme
-  url: http://taylantatli.me/Halve
-  image: http://taylantatli.me/Halve/images/halve-home-image.png
-  completed: false
-
-- title: Moon Jekyll Theme
-  url: http://taylantatli.me/Moon
-  image: https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
+- title: STARTIST
+  url: https://wdi-raginidua-project3.herokuapp.com/
+  image: http://i.imgur.com/3LGiGHc.png?1
   completed: true
 
-- title: Ramme Jekyll Theme
-  url: http://taylantatli.me/Ramme
-  image: https://raw.githubusercontent.com/TaylanTatli/Ramme/master/assets/img/screenshot-post.png
+- title: Bloom
+  url: https://bloom-secret-garden.herokuapp.com/
+  image: http://i.imgur.com/0BTDBC6.png?1
   completed: true
 
-- title: Daisy Pelican Theme
-  url: http://taylantatli.me/Daisy-Pelican-Theme/
-  image: https://raw.githubusercontent.com/TaylanTatli/Daisy-Pelican-Theme/master/Preview-1.png
+- title: team:up
+  url: https://bytemeteamup.herokuapp.com/
+  image: http://i.imgur.com/yfZmtjZ.png?1
   completed: true
 
-- title: Block Icon Theme
-  url: https://github.com/TaylanTatli/Block-Icon-Theme
-  image: https://raw.githubusercontent.com/TaylanTatli/Block-Icon-Theme/master/Preview.png
-  completed: false
-
-- title: Start Page
-  url: http://taylantatli.me/StartPage/
-  image: https://raw.githubusercontent.com/TaylanTatli/StartPage/master/preview.png
-  completed: false
+- title: Space Landing
+  url: https://nameless-wave-41114.herokuapp.com/
+  image: http://i.imgur.com/iO1pLlG.png
+  completed: true
