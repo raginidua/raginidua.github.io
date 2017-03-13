@@ -3,7 +3,10 @@ GEM
   specs:
     addressable (2.5.0)
       public_suffix (~> 2.0, >= 2.0.2)
+    autoprefixer-rails (6.7.7)
+      execjs
     colorator (1.1.0)
+    execjs (2.7.0)
     ffi (1.9.17)
     forwardable-extended (2.6.0)
     jekyll (3.4.0)
@@ -17,11 +20,11 @@ GEM
       pathutil (~> 0.9)
       rouge (~> 1.7)
       safe_yaml (~> 1.0)
-    jekyll-athena (0.0.2)
-    jekyll-feed (0.8.0)
-      jekyll (~> 3.3)
+    jekyll-paginate (1.1.0)
     jekyll-sass-converter (1.5.0)
       sass (~> 3.4)
+    jekyll-sitemap (1.0.0)
+      jekyll (~> 3.3)
     jekyll-watch (1.5.0)
       listen (~> 3.0, < 3.1)
     kramdown (1.13.2)
@@ -30,8 +33,9 @@ GEM
       rb-fsevent (~> 0.9, >= 0.9.4)
       rb-inotify (~> 0.9, >= 0.9.7)
     mercenary (0.3.6)
-    minima (2.1.0)
-      jekyll (~> 3.3)
+    octopress-autoprefixer (2.0.0)
+      autoprefixer-rails
+      jekyll (~> 3.0)
     pathutil (0.14.0)
       forwardable-extended (~> 2.6)
     public_suffix (2.0.5)
@@ -47,9 +51,9 @@ PLATFORMS
 
 DEPENDENCIES
   jekyll (= 3.4.0)
-  jekyll-athena
-  jekyll-feed (~> 0.6)
-  minima (~> 2.0)
+  jekyll-paginate
+  jekyll-sitemap
+  octopress-autoprefixer
   tzinfo-data
 
 RUBY VERSION

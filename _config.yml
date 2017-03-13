@@ -24,9 +24,9 @@ github_username: raginidua
 
 # Build settings
 markdown: kramdown
-theme: jekyll-trophy
-gems:
-  - jekyll-feed
+# theme: jekyll-trophy
+gems: [jekyll-paginate, jekyll-sitemap, octopress-autoprefixer]
+  # - jekyll-feed
 exclude:
   - Gemfile
   - Gemfile.lock
